@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.091db5c6.chunk.css",
-    "main.js": "/static/js/main.c9b2cef9.chunk.js",
-    "main.js.map": "/static/js/main.c9b2cef9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b020c485.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b020c485.js.map",
-    "static/js/2.5b2a5f43.chunk.js": "/static/js/2.5b2a5f43.chunk.js",
-    "static/js/2.5b2a5f43.chunk.js.map": "/static/js/2.5b2a5f43.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.091db5c6.chunk.css.map": "/static/css/main.091db5c6.chunk.css.map",
-    "static/js/2.5b2a5f43.chunk.js.LICENSE.txt": "/static/js/2.5b2a5f43.chunk.js.LICENSE.txt",
-    "static/media/Navigation.css": "/static/media/Agustina.320d237b.otf",
-    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
-    "static/media/nova.842181cc.jfif": "/static/media/nova.842181cc.jfif",
-    "static/media/nucleo.css": "/static/media/nucleo-icons.d6a66724.ttf"
+    "main.css": "/Gnanod/Portfolio/static/css/main.721d871d.chunk.css",
+    "main.js": "/Gnanod/Portfolio/static/js/main.c9b2cef9.chunk.js",
+    "main.js.map": "/Gnanod/Portfolio/static/js/main.c9b2cef9.chunk.js.map",
+    "runtime-main.js": "/Gnanod/Portfolio/static/js/runtime-main.3adcf5ab.js",
+    "runtime-main.js.map": "/Gnanod/Portfolio/static/js/runtime-main.3adcf5ab.js.map",
+    "static/js/2.5b2a5f43.chunk.js": "/Gnanod/Portfolio/static/js/2.5b2a5f43.chunk.js",
+    "static/js/2.5b2a5f43.chunk.js.map": "/Gnanod/Portfolio/static/js/2.5b2a5f43.chunk.js.map",
+    "index.html": "/Gnanod/Portfolio/index.html",
+    "static/css/main.721d871d.chunk.css.map": "/Gnanod/Portfolio/static/css/main.721d871d.chunk.css.map",
+    "static/js/2.5b2a5f43.chunk.js.LICENSE.txt": "/Gnanod/Portfolio/static/js/2.5b2a5f43.chunk.js.LICENSE.txt",
+    "static/media/Navigation.css": "/Gnanod/Portfolio/static/media/Agustina.320d237b.otf",
+    "static/media/font-awesome.min.css": "/Gnanod/Portfolio/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/nova.842181cc.jfif": "/Gnanod/Portfolio/static/media/nova.842181cc.jfif",
+    "static/media/nucleo.css": "/Gnanod/Portfolio/static/media/nucleo-icons.d6a66724.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.b020c485.js",
+    "static/js/runtime-main.3adcf5ab.js",
     "static/js/2.5b2a5f43.chunk.js",
-    "static/css/main.091db5c6.chunk.css",
+    "static/css/main.721d871d.chunk.css",
     "static/js/main.c9b2cef9.chunk.js"
   ]
 }
